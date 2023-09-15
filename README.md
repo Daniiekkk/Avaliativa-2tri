@@ -26,8 +26,8 @@ Codigo que utiliza um sistema com javascript que simula uma lista de comparecime
 * `Git`
 * `Git Hub`
 * `Visual Estudio Code`
-* `HTML`
-* `CSS`
+* `HTML5`
+* `CSS3`
 * `JavaScript`
 * [Voltar para o Índice](#%C3%ADndice)
 
