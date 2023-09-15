@@ -1,8 +1,8 @@
 Codigo que utiliza um sistema com javascript que simula uma lista de comparecimento para os alunos
 =======
-# Índice
-![imagem](img/capa.png)
 
+![imagem](img/capa.png)
+# Índice
 * [Descrição](#descri%C3%A7%C3%A3o)
 * [Funcionalidades](#funcionalidade)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
