@@ -31,6 +31,7 @@
  
 ## Fontes consultadas
 * `Git Hub`
+* `Alura`
 * [Voltar para o Índice](#%C3%ADndice)
 
  
