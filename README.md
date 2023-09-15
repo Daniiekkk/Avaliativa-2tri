@@ -41,4 +41,3 @@ Codigo que utiliza um sistema com javascript que simula uma lista de comparecime
 ## Autores
 * Daniiekkk
 * [Voltar para o Índice](#%C3%ADndice)
->>>>>>> 75f7de1453aedced3bd9f37a9ee4d7df0547509b
