@@ -6,7 +6,7 @@
 * [Fontes consultadas](#fontes-consultadas)
 * [Autores](#autores)
  
- 
+ ## Descrição
 * Codigo que utiliza um sistema com javascript que simula uma lista de comparecimento para os alunos
 * [Voltar para o Índice](#%C3%ADndice)
 
